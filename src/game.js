@@ -39,7 +39,7 @@ function runGame() {
         maxAttackDamage: 6
     });
     var opponent = new Character({
-        name: "Grant",
+        name: "Jonathan",
         health: 10,
         minAttackDamage: 3,
         maxAttackDamage: 7
